@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      Python编码unicode Gbk Utf8字符集转换的正确姿势
+date:       2017-02-27
+author:     BIGSING
+catalog: true
+tags:
+    - Python
+---
+
 # 规范
 - 脚本文件编码
 由于需要经常性使用到中文字符，因此Python脚本新建后，请在头部添加代码：
